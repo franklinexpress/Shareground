@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jaxbHandler>
+    <clientFileDir>clientFiles/</clientFileDir>
+    <port>2665</port>
+    <serverFileDirectory>serverFiles/</serverFileDirectory>
+    <serverid>Franklin De Los Santos</serverid>
+</jaxbHandler>
